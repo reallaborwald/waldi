@@ -72,28 +72,23 @@ The DFPlayer Mini plays short environmental sound clips through a small speaker.
 Power is provided through a solar panel and LiPo battery system.
 
 ```
-
 ## First conceptual sketch of the project
-
-<img src="src/images/first_iteration_1.png" width="600">
-<img src="src/images/first_iteration_2.png" width="600">
+![First iteration 1](src/images/first_iteration_1.png)
+![First iteration 2](src/images/first_iteration_2.png)
 
 ## Laser-cut acrylic components of the enclosure and mechanical elements
- 
-<img src="src/images/cutted_all.png" width="600">
+![Cutted all components](src/images/cutted_all.png)
 
 ## Custom connection elements fabricated from acrylic
- 
-<img src="src/images/custom_parts" width="600">
-
-<img src="src/images/connecting,png" width="600">
+![Custom parts](src/images/custom_parts.png)
+![Connecting parts](src/images/connecting.png)
 
 ## Integration of mechanical components and electronic subsystems during assembly
-<img src="src/images/tech.png" width="600">
+![Technical assembly](src/images/tech.png)
 
 ## The completed prototype
-<img src="src/images/final_1.png" width="600">
-<img src="src/images/final_2.png" width="600">
+![Final prototype 1](src/images/final_1.png)
+![Final prototype 2](src/images/final_2.png)
 
 
 ## Links 
